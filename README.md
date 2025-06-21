@@ -1,1 +1,2 @@
-# Logistic-Regression
+Module: Logistic Regression
+Assignment: Logistics Regression
